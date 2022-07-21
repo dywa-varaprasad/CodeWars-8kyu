@@ -9,3 +9,8 @@ function boolToWord( bool ){
   if(bool ===true){return "Yes";}
   else if(bool ===false){ return "No";}
 }
+
+//best Solution
+function booleanToString( boolean){
+Boolean=true?"Yes":"No";
+}

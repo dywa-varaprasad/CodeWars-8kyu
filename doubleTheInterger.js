@@ -3,6 +3,6 @@
 
 //my solution
 function doubleInteger(i) {
-i*=i
+i=I*2
   return i;
 }

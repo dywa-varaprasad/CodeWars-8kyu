@@ -7,6 +7,12 @@ Sure, this is about as easy as it gets. But how clever can you be to create the 
 
 //my solution
 
+function helloWorld(){
+  let str="Hell World"
+  console.log(str)
+  
+}
+
 const greet= ()=>"Hello World!"
 
 //it's much simplified version than my previous functions declarations 

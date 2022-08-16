@@ -1,19 +1,14 @@
 /*
 When provided with a number between 0-9, return it in words.
-
-Input :: 1
-
-Output :: "One".
-
-If your language supports it, try using a switch statement.
+Input :: 1  Output :: "One".
+ try using a switch statement.
 */
 
 
 
-//MySolutions
+//MySolution
 
 function switchItUp (Number){
-
 switch (Number){
   case 1:
   return "One"
@@ -30,14 +25,13 @@ switch (Number){
   case 5:
   return "Five"
   break;
-case 6:
+  case 6:
   return "Six"
   break;
-
- case 7:
+  case 7:
   return "Seven";
   break;
-case 8:
+  case 8:
   return "Eight";
   break;
   case 9:

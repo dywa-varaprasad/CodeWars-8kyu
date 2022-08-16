@@ -36,6 +36,9 @@ switch (Number){
   break;
   case 9:
   return "Nine";
-  default: "Zero"
+  case 0:
+  return "Zero"
+  break;
+  default: "only from 0-9"
        }
 }

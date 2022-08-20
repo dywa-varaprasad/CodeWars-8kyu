@@ -17,7 +17,6 @@ For example:
 
 //my solution
 function goals (laLigaGoals, copaDelReyGoals, championsLeagueGoals) {
-  // code goes here
 return laLigaGoals+copaDelReyGoals+championsLeagueGoals
   
   }

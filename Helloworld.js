@@ -13,6 +13,7 @@ function helloWorld(){
   
 }
 
+// arrow functions 
 const greet= ()=>"Hello World!"
 
 //it's much simplified version than my previous functions declarations 

@@ -6,8 +6,7 @@ This code does not execute properly.
 
 // my solution
 
-fuction multiply(a, b){
- 
+fuction multiplyTwoNums(a,b){
  let total = a * b
 return total 
  }

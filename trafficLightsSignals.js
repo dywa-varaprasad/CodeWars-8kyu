@@ -8,7 +8,7 @@ For example, when the input is green, output should be yellow.
 // my solution
 
 function updateLight(current) {
-  if(current=="green") {
+  if(current=="green"){
     return "yellow"
 }
  

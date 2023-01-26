@@ -9,8 +9,30 @@ make negative(0.12); // return -0.12
 */
 
 
-//solution.
+//solution 01
 
+function ConvertToNegative(a){
+switch(a)
+case a>0 :
+return -a
+break;
+
+case a<0 :
+return -a
+break;
+case a==0 :
+return a
+break;
+
+default 'happy coding'
+
+}
+
+
+
+
+
+//solution 02
 function makeNegative(num) {
    return num<0? num: -num
 }

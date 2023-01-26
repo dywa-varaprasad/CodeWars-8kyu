@@ -24,7 +24,7 @@ case a==0 :
 return a
 break;
 
-default 'happy coding'
+default: 'happy coding'
 
 }
 
